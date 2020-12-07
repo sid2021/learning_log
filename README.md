@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://learning-log-djangoapp.herokuapp.com/)
+
 # Learning Log
 
 This is a Journal application that lets users keep track of information they have learned about particular topics. Built with Django.
